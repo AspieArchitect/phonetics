@@ -1,0 +1,2 @@
+# phonetics
+SQLCLR Phonetics experimentation
